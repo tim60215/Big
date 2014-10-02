@@ -355,7 +355,7 @@ textarea.inp-text{height:auto}
 #front .menu-main .arrow span:before,#back .menu-main .arrow span:before,.menu-subpage .arrow span:before,#front .menu-main .arrow span:after,#back .menu-main .arrow span:after,.menu-subpage .arrow span:after{content:'';width:20px;height:20px;position:absolute;right:-1px;top:-1px;background:url("../img/bg/sprite.png?1404144360776") -625px -482px no-repeat;-webkit-transition:all 0.3s;-moz-transition:all 0.3s;-o-transition:all 0.3s;-ms-transition:all 0.3s;transition:all 0.3s;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
 #front .menu-main .arrow span:after,#back .menu-main .arrow span:after,.menu-subpage .arrow span:after{top:19px;background:url("../img/bg/sprite.png?1404144360776") -597px -530px no-repeat;opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";filter:alpha(opacity=0)}
 #front .menu-main{line-height:56px;text-transform:uppercase;font-size:14px;font-weight:500;text-align:center;overflow:hidden;}
-#front .menu-main ul{width:644px;margin:0 auto}
+#front .menu-main ul{width:800px;margin:0 auto}
 #front .menu-main a{display:block;text-decoration:none;padding-top:4px}
 #front .menu-main .item{float:left;display:inline;width:160px;}
 #front .menu-main .item a{color:#666;padding:4px 20px 0;}
